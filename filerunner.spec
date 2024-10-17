@@ -6,7 +6,7 @@ Version:	10.12.28.23
 Release:	%mkrel 1
 License:	GPLv3+
 Group:		File tools
-URL:		http://sourceforge.net/projects/filerunner/
+URL:		https://sourceforge.net/projects/filerunner/
 Source0:	http://downloads.sourceforge.net/project/%{name}/fr-10.12.28.23.tar.gz
 BuildArch:	noarch
 BuildRequires:	imagemagick
